@@ -1,0 +1,9 @@
+﻿Name,Texture,Tooltip
+Food,/Game/Examples/DataDrivenDynamicWidgets/8_DataDrivenWidgetSystem/Textures/Icon_Apple_01.Icon_Apple_01,Show only types of food.
+Treasure,/Game/Examples/DataDrivenDynamicWidgets/8_DataDrivenWidgetSystem/Textures/Icon_Chest_01.Icon_Chest_01,Show only treasure.
+Keys,/Game/Examples/DataDrivenDynamicWidgets/8_DataDrivenWidgetSystem/Textures/Icon_Key_01.Icon_Key_01,Show only keys.
+Potions,/Game/Examples/DataDrivenDynamicWidgets/8_DataDrivenWidgetSystem/Textures/Icon_Potion_01.Icon_Potion_01,Show only potions.
+Documents,/Game/Examples/DataDrivenDynamicWidgets/8_DataDrivenWidgetSystem/Textures/Icon_Scroll_01.Icon_Scroll_01,Show only documents.
+Armor,/Game/Examples/DataDrivenDynamicWidgets/8_DataDrivenWidgetSystem/Textures/Icon_Shield_01.Icon_Shield_01,Show only armor.
+Weapons,/Game/Examples/DataDrivenDynamicWidgets/8_DataDrivenWidgetSystem/Textures/Icon_Sword_01.Icon_Sword_01,Show only weapons.
+Bread,/Game/Examples/DataDrivenDynamicWidgets/8_DataDrivenWidgetSystem/Textures/Icon_Bread_01.Icon_Bread_01,Show only bread.
